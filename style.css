@@ -1,0 +1,119 @@
+body{
+	align-self: center;
+	margin-left: 120px;
+	margin-right: 170px;
+	margin-top: 110px;
+	margin-bottom:150px;
+}
+
+
+#p1{
+	background-color: blue;
+	border: 1px blue solid;
+	width: 1000px;
+	height: 328px;
+}
+.nom{
+	position: relative;
+	color: white;
+	text-shadow: 1px black solid;
+	left: 60px;
+	top: 30px;
+}
+.presentation{
+	display: inline-grid;
+	text-shadow: 1px 1px blue;
+	position: relative;
+	bottom: 325px;
+	left: 105px;
+	color: lightblue;
+}
+.photo{
+	position: relative;
+	left: 750px;
+	bottom: 81px;
+	border: 1px blue ;
+}
+.intro{
+	position: relative;
+	border:1px blue solid;
+	display: inline-grid;
+	bottom: 210px;
+	font-size: 1.5em;
+	right: 190px;
+	color: white;
+
+}
+#p2{
+	position: relative;
+	background-color: white;
+	width: 1000px;
+	height: 500px;
+	bottom:421px;
+	position: relative;
+	bottom: 207px;
+	right: 1px;
+	color: lightblue;
+}
+#corps{
+	background-color:white;
+	border: 1px blue solid;
+	width: 1000px;
+	height: 328px;
+	border: 1px blue white;
+}
+.competences{
+	display: inline-grid;
+	position: relative;
+	border: 1px white solid;
+	bottom: 700px;
+	left: 350px;
+	font: 1px;
+}
+.signe{
+	display: inline-grid;
+	position: relative;
+	border: 1px white solid;
+	bottom: 520px;
+	height: 170px;
+	width: 200px;
+	font-size: 100px;
+	right: 540px;
+	font-weight: bold;
+}
+#p3{
+	border: 1px orange solid;
+	background-color: chocolate;
+	bottom: 650px;
+	position: relative;
+}
+.reseaux{
+	position: relative;
+	display: inline-grid;
+}
+.bp{
+	position: relative;
+	display: inline-grid;
+	bottom: 1px;
+}
+.twitter{
+	display: relative;
+	border: 1px blue solid;
+	display: inline-grid;
+	width: 2px;
+	height: 2px;
+}
+.linkedin{
+	display: relative;
+	border: 1px blue solid;
+	display: inline-grid;
+	width: 2px;
+	height: 2px;
+	right:50px;
+}
+span{
+	color: lightblue;
+	border: 1px green solid;
+	background-color: green;
+}
+	
