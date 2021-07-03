@@ -8,7 +8,7 @@ body{
 
 
 #p1{
-	background-color: blue;
+	background-color: #663399;
 	border: 1px blue solid;
 	width: 1000px;
 	height: 328px;
@@ -22,7 +22,6 @@ body{
 }
 .presentation{
 	display: inline-grid;
-	text-shadow: 1px 1px blue;
 	position: relative;
 	bottom: 325px;
 	left: 105px;
@@ -36,7 +35,7 @@ body{
 }
 .intro{
 	position: relative;
-	border:1px blue solid;
+	border:1px #663399 solid;
 	display: inline-grid;
 	bottom: 210px;
 	font-size: 1.5em;
@@ -82,14 +81,15 @@ body{
 	font-weight: bold;
 }
 #p3{
-	border: 1px orange solid;
-	background-color: chocolate;
+	border: 1px #191970 solid;
+	background-color: #191970;
 	bottom: 650px;
 	position: relative;
 }
 .reseaux{
 	position: relative;
 	display: inline-grid;
+	color: white;
 }
 .bp{
 	position: relative;
@@ -113,7 +113,8 @@ body{
 }
 span{
 	color: lightblue;
-	border: 1px green solid;
-	background-color: green;
+	border: 1px #00ff00 solid;
+	background-color: #00ff00;
+	color: black;
 }
 	
